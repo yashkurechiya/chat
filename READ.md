@@ -12,7 +12,7 @@ A full-stack, real-time chat application built as a technical assignment for an 
 
 *Add a screenshot of your running application here. You can drag and drop an image onto the GitHub file editor.*
 
-![Screenshot of the chat application UI](./screenshot.png)
+![Screenshot of the chat application UI](./assign.png)
 
 ---
 
